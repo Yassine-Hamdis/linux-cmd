@@ -1,8 +1,7 @@
-### This project is for the [DevOps Bootcamp](https://www.techworld-with-nana.com/devops-bootcamp) for "Operating Systems & Linux Basics" Module ###
 <br />
-![Linux Icon for Linux Module](/linux.png "OS & Linux Basics Module")
+![Linux Icon for Linux Module](./linux.png "OS & Linux Basics Module")
 
-**Commands used in the videos:**
+**Commands you may need to know :**
 
 <details>
 <summary>0 Basic Linux Commands (CLI - Part 2)</summary>
