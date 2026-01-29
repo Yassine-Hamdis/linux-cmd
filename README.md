@@ -1,5 +1,5 @@
 <br />
-![linux Logo](linux.png)
+![Linux Logo](linux.png)
 
 **Commands you may need to know :**
 
