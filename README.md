@@ -1,5 +1,5 @@
 <br />
-![Linux Icon for Linux Module](./linux.png "OS & Linux Basics Module")
+![linux Logo](linux.png)
 
 **Commands you may need to know :**
 
